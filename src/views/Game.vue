@@ -13,11 +13,11 @@
     </div>
 
     <div class="flex flex-wrap">
-      <div class="w-1/5 mx-auto md:w-1/4  m-4 text-center">
+      <div class="m-4 text-center">
         <button
           @click="resetBoard"
           type="button"
-          class="mx-auto font-bold py-2 px-4 rounded">
+          class="btn btn-secondary">
           Reset Game
         </button>
       </div>
