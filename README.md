@@ -1,5 +1,5 @@
 # TicTacToe FrontEnd
-This source code works together with [TictacToe Laravel Backend](https://github.com/sjmarve/roam-backend)
+This source code works together with [TictacToe Laravel Backend](https://github.com/sjmarve/tic-tak-toe-backend)
 
 Make sure to update the `.env` with your API url
 
